@@ -1,3 +1,4 @@
+Simple react project to get the data from user and pass it to backend server (node js).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
